@@ -1,3 +1,3 @@
 # MSeaHKG-data
 
-![image info](./pictures/image.png)
+![image info](./three-cases.pdf)
