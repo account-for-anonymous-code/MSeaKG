@@ -6,6 +6,9 @@
 </h2>
 
 
+
+
+
 As presented in \cite{rossi2021knowledge}, the irreflexive, anti-symmetric, and symmetric relations account for a major proportion of WN18RR and FB15k237, especially facts with the symmetric relations reach 37\% in WN18RR.
 We found that the message function searched on WN18RR is the exact RotatE model, which has been proven to cover symmetric relations.
 
